@@ -9,4 +9,4 @@ SeeedStat_Gerber.zip: Gerber file for electric circuit;
 
 SeeedSTAT_Source.zip: Source files: (Embarcadero XE5 pascal + components), + Arduino Pote2.ino;
 
-![image](https://user-images.githubusercontent.com/17915931/113484934-4a315e80-94ab-11eb-8894-f6c423d4187a.png)
+![image](https://user-images.githubusercontent.com/17915931/113701360-5817f700-96d8-11eb-8f00-5a9cfa2f8b90.png)
