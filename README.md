@@ -3,6 +3,8 @@ Potentiostat Measurements by Arduino
 
 Potentiostat.docx   : the project document;
 
+SeedSTAT_4.RAR      : Newest version (EXE and source code)
+
 SeeedSTAT.rar       : the project EXE, languges and Project directory with example;
 
 SeeedStat_Gerber.zip: Gerber file for electric circuit;
