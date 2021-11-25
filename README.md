@@ -1,5 +1,6 @@
 # SeeedSTAT-Potentiostat-Project
 Potentiostat Measurements by Arduino
+
 by Agócs László Hungary 2021
 email: lagocsstella@gmail.com
 
